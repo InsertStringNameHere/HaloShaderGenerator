@@ -5,8 +5,8 @@
     <RootNamespace>HaloShaderGenerator</RootNamespace>
     <AssemblyName>HaloShaderGenerator</AssemblyName>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <TargetFramework>net48</TargetFramework>
-    <LangVersion>7.3</LangVersion>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <LangVersion>11</LangVersion>
     <Platforms>x64;x86</Platforms>
     <Configuration>Release</Configuration> <!--Default value-->
     <Platform>x64</Platform> <!--Default value-->
